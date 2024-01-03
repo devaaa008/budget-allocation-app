@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/budget-allocation-app/static/css/main.e7359456.css",
+    "main.js": "/budget-allocation-app/static/js/main.a0181d09.js",
+    "static/js/787.a784accf.chunk.js": "/budget-allocation-app/static/js/787.a784accf.chunk.js",
+    "static/media/glyphicons-halflings-regular.svg": "/budget-allocation-app/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/glyphicons-halflings-regular.ttf": "/budget-allocation-app/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/budget-allocation-app/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/budget-allocation-app/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/budget-allocation-app/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "index.html": "/budget-allocation-app/index.html",
+    "main.e7359456.css.map": "/budget-allocation-app/static/css/main.e7359456.css.map",
+    "main.a0181d09.js.map": "/budget-allocation-app/static/js/main.a0181d09.js.map",
+    "787.a784accf.chunk.js.map": "/budget-allocation-app/static/js/787.a784accf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7359456.css",
+    "static/js/main.a0181d09.js"
+  ]
+}
